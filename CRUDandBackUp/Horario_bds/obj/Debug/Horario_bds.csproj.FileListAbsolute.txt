@@ -1,0 +1,230 @@
+c:\users\jonas\documents\visual studio 2015\Projects\Horario_bds\Horario_bds\bin\Debug\Horario_bds.exe.config
+c:\users\jonas\documents\visual studio 2015\Projects\Horario_bds\Horario_bds\obj\Debug\Horario_bds.csprojResolveAssemblyReference.cache
+c:\users\jonas\documents\visual studio 2015\Projects\Horario_bds\Horario_bds\obj\Debug\Horario_bds.Form1.resources
+c:\users\jonas\documents\visual studio 2015\Projects\Horario_bds\Horario_bds\obj\Debug\Horario_bds.Properties.Resources.resources
+c:\users\jonas\documents\visual studio 2015\Projects\Horario_bds\Horario_bds\obj\Debug\Horario_bds.csproj.GenerateResource.Cache
+c:\users\jonas\documents\visual studio 2015\Projects\Horario_bds\Horario_bds\bin\Debug\Horario_bds.exe
+c:\users\jonas\documents\visual studio 2015\Projects\Horario_bds\Horario_bds\bin\Debug\Horario_bds.pdb
+c:\users\jonas\documents\visual studio 2015\Projects\Horario_bds\Horario_bds\obj\Debug\Horario_bds.exe
+c:\users\jonas\documents\visual studio 2015\Projects\Horario_bds\Horario_bds\obj\Debug\Horario_bds.pdb
+c:\users\jonas\documents\visual studio 2015\Projects\Horario_bds\Horario_bds\bin\Debug\Mi libreria.dll
+c:\users\jonas\documents\visual studio 2015\Projects\Horario_bds\Horario_bds\bin\Debug\Mi libreria.pdb
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bds\Horario_bds\obj\Debug\Horario_bds.Mostrar.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bds\Horario_bds\obj\Debug\Horario_bds.AgregarAlumno.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bds\Horario_bds\obj\Debug\Horario_bds.AgregarCarrera.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bds\Horario_bds\obj\Debug\Horario_bds.AgregarDepartamento.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bds\Horario_bds\obj\Debug\Horario_bds.AgregarHorario.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bds\Horario_bds\obj\Debug\Horario_bds.AgregarMateria.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bds\Horario_bds\obj\Debug\Horario_bds.AgregarProfesor.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bds\Horario_bds\obj\Debug\Horario_bds.AgregarSalon.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bds\Horario_bds\obj\Debug\Horario_bds.ModificarAlumno.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\bin\Debug\Horario_bds.exe.config
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.exe
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.pdb
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\bin\Debug\Horario_bds.exe
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\bin\Debug\Horario_bds.pdb
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\bin\Debug\Mi libreria.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\bin\Debug\Mi libreria.pdb
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.AgregarAlumno.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.AgregarCarrera.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.AgregarDepartamento.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.AgregarHorario.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.AgregarMateria.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.AgregarProfesor.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.AgregarSalon.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.EliminarAlumno.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.EliminarCarrera.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.EliminarDepartamento.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.EliminarHorario.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.EliminarMateria.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.EliminarProfesor.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.Form1.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.ModificarAlumno.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.ModificarCarrera.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.ModificarDepa.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.ModificarHorario.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.ModificarMateria.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.ModificarProfesor.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.ModificarSalon.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.Mostrar.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.Properties.Resources.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.csproj.GenerateResource.Cache
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bdsssssss\Horario_bds\obj\Debug\Horario_bds.EliminarSalon.resources
+C:\Users\Jonas\Videos\aaaaaa\Horario_bds\bin\Debug\Horario_bds.exe.config
+C:\Users\Jonas\Videos\aaaaaa\Horario_bds\obj\Debug\Horario_bds.exe
+C:\Users\Jonas\Videos\aaaaaa\Horario_bds\obj\Debug\Horario_bds.pdb
+E:\aaaaaa\Horario_bds\bin\Debug\Horario_bds.exe.config
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.exe
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.pdb
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.csprojResolveAssemblyReference.cache
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.AgregarAlumno.resources
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.AgregarCarrera.resources
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.AgregarDepartamento.resources
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.AgregarHorario.resources
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.AgregarMateria.resources
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.AgregarProfesor.resources
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.AgregarSalon.resources
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.EliminarAlumno.resources
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.EliminarCarrera.resources
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.EliminarDepartamento.resources
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.EliminarHorario.resources
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.EliminarMateria.resources
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.EliminarProfesor.resources
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.EliminarSalon.resources
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.Form1.resources
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.ModificarAlumno.resources
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.ModificarCarrera.resources
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.ModificarDepa.resources
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.ModificarHorario.resources
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.ModificarMateria.resources
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.ModificarProfesor.resources
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.ModificarSalon.resources
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.Mostrar.resources
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.Properties.Resources.resources
+E:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.csproj.GenerateResource.Cache
+E:\aaaaaa\Horario_bds\bin\Debug\Horario_bds.exe
+E:\aaaaaa\Horario_bds\bin\Debug\Horario_bds.pdb
+E:\aaaaaa\Horario_bds\bin\Debug\Mi libreria.dll
+E:\aaaaaa\Horario_bds\bin\Debug\Mi libreria.pdb
+N:\aaaaaa\Horario_bds\bin\Debug\Horario_bds.exe.config
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.exe
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.pdb
+N:\aaaaaa\Horario_bds\bin\Debug\Horario_bds.exe
+N:\aaaaaa\Horario_bds\bin\Debug\Horario_bds.pdb
+N:\aaaaaa\Horario_bds\bin\Debug\Mi libreria.dll
+N:\aaaaaa\Horario_bds\bin\Debug\Mi libreria.pdb
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.csprojResolveAssemblyReference.cache
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.AgregarAlumno.resources
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.AgregarCarrera.resources
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.AgregarDepartamento.resources
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.AgregarHorario.resources
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.AgregarMateria.resources
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.AgregarProfesor.resources
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.AgregarSalon.resources
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.EliminarAlumno.resources
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.EliminarCarrera.resources
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.EliminarDepartamento.resources
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.EliminarHorario.resources
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.EliminarMateria.resources
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.EliminarProfesor.resources
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.EliminarSalon.resources
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.Form1.resources
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.ModificarAlumno.resources
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.ModificarCarrera.resources
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.ModificarDepa.resources
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.ModificarHorario.resources
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.ModificarMateria.resources
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.ModificarProfesor.resources
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.ModificarSalon.resources
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.Mostrar.resources
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.Properties.Resources.resources
+N:\aaaaaa\Horario_bds\obj\Debug\Horario_bds.csproj.GenerateResource.Cache
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\bin\Debug\Horario_bds.exe.config
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.exe
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.pdb
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\bin\Debug\Horario_bds.exe
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\bin\Debug\Horario_bds.pdb
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\bin\Debug\Mi libreria.dll
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\bin\Debug\Mi libreria.pdb
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.AgregarAlumno.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.AgregarCarrera.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.AgregarDepartamento.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.AgregarHorario.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.AgregarMateria.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.AgregarProfesor.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.AgregarSalon.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.EliminarAlumno.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.EliminarCarrera.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.EliminarDepartamento.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.EliminarHorario.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.EliminarMateria.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.EliminarProfesor.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.EliminarSalon.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.Form1.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.ModificarAlumno.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.ModificarCarrera.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.ModificarDepa.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.ModificarHorario.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.ModificarMateria.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.ModificarProfesor.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.ModificarSalon.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.Mostrar.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.Properties.Resources.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.csproj.GenerateResource.Cache
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.bUSQUEDA.resources
+C:\Users\Jonas\Music\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.RespaldoyRestauracion.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\bin\Debug\Horario_bds.exe.config
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.exe
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.pdb
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\bin\Debug\Horario_bds.exe
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\bin\Debug\Horario_bds.pdb
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\bin\Debug\Mi libreria.dll
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\bin\Debug\Mi libreria.pdb
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.csprojResolveAssemblyReference.cache
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.AgregarAlumno.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.AgregarCarrera.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.AgregarDepartamento.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.AgregarHorario.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.AgregarMateria.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.AgregarProfesor.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.AgregarSalon.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.bUSQUEDA.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.EliminarAlumno.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.EliminarCarrera.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.EliminarDepartamento.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.EliminarHorario.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.EliminarMateria.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.EliminarProfesor.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.EliminarSalon.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.Form1.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.ModificarAlumno.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.ModificarCarrera.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.ModificarDepa.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.ModificarHorario.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.ModificarMateria.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.ModificarProfesor.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.ModificarSalon.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.Mostrar.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.Properties.Resources.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.RespaldoyRestauracion.resources
+C:\Users\Jona\Downloads\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.csproj.GenerateResource.Cache
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\bin\Debug\Horario_bds.exe.config
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.exe
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.pdb
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\bin\Debug\Horario_bds.exe
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\bin\Debug\Horario_bds.pdb
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\bin\Debug\Mi libreria.dll
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\bin\Debug\Mi libreria.pdb
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.csprojResolveAssemblyReference.cache
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.AgregarAlumno.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.AgregarCarrera.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.AgregarDepartamento.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.AgregarHorario.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.AgregarMateria.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.AgregarProfesor.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.AgregarSalon.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.bUSQUEDA.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.EliminarAlumno.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.EliminarCarrera.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.EliminarDepartamento.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.EliminarHorario.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.EliminarMateria.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.EliminarProfesor.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.EliminarSalon.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.Form1.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.ModificarAlumno.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.ModificarCarrera.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.ModificarDepa.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.ModificarHorario.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.ModificarMateria.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.ModificarProfesor.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.ModificarSalon.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.Mostrar.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.Properties.Resources.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.RespaldoyRestauracion.resources
+C:\Users\Jona\Videos\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.csproj.GenerateResource.Cache
+C:\Users\Jona\Videos\TALLER DE BASE DE DATOS\Escuelita Horario el chido\Horario_bds\bin\Debug\Horario_bds.exe.config
+C:\Users\Jona\Videos\TALLER DE BASE DE DATOS\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.exe
+C:\Users\Jona\Videos\TALLER DE BASE DE DATOS\Escuelita Horario el chido\Horario_bds\obj\Debug\Horario_bds.pdb

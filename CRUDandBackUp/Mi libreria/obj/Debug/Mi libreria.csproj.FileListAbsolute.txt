@@ -1,0 +1,5 @@
+c:\users\jonas\documents\visual studio 2015\Projects\Horario_bds\Mi libreria\bin\Debug\Mi libreria.dll
+c:\users\jonas\documents\visual studio 2015\Projects\Horario_bds\Mi libreria\bin\Debug\Mi libreria.pdb
+c:\users\jonas\documents\visual studio 2015\Projects\Horario_bds\Mi libreria\obj\Debug\Mi libreria.csprojResolveAssemblyReference.cache
+c:\users\jonas\documents\visual studio 2015\Projects\Horario_bds\Mi libreria\obj\Debug\Mi libreria.dll
+c:\users\jonas\documents\visual studio 2015\Projects\Horario_bds\Mi libreria\obj\Debug\Mi libreria.pdb

@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{569546C4-7739-4B4E-97CD-0A5FD951DFCE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Horario_bds</RootNamespace>
+    <AssemblyName>Horario_bds</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Mi libreria">
+      <HintPath>..\Mi libreria\bin\Debug\Mi libreria.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AgregarAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarAlumno.Designer.cs">
+      <DependentUpon>AgregarAlumno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarCarrera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarCarrera.Designer.cs">
+      <DependentUpon>AgregarCarrera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarDepartamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarDepartamento.Designer.cs">
+      <DependentUpon>AgregarDepartamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarHorario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarHorario.Designer.cs">
+      <DependentUpon>AgregarHorario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarMateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarMateria.Designer.cs">
+      <DependentUpon>AgregarMateria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarProfesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarProfesor.Designer.cs">
+      <DependentUpon>AgregarProfesor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarSalon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarSalon.Designer.cs">
+      <DependentUpon>AgregarSalon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bUSQUEDA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bUSQUEDA.Designer.cs">
+      <DependentUpon>bUSQUEDA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarAlumno.Designer.cs">
+      <DependentUpon>EliminarAlumno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarCarrera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarCarrera.Designer.cs">
+      <DependentUpon>EliminarCarrera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarDepartamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarDepartamento.Designer.cs">
+      <DependentUpon>EliminarDepartamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarHorario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarHorario.Designer.cs">
+      <DependentUpon>EliminarHorario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarMateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarMateria.Designer.cs">
+      <DependentUpon>EliminarMateria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarProfesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarProfesor.Designer.cs">
+      <DependentUpon>EliminarProfesor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarSalon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarSalon.Designer.cs">
+      <DependentUpon>EliminarSalon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarAlumno.Designer.cs">
+      <DependentUpon>ModificarAlumno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarCarrera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarCarrera.Designer.cs">
+      <DependentUpon>ModificarCarrera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarDepa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarDepa.Designer.cs">
+      <DependentUpon>ModificarDepa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarHorario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarHorario.Designer.cs">
+      <DependentUpon>ModificarHorario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarMateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarMateria.Designer.cs">
+      <DependentUpon>ModificarMateria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarProfesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarProfesor.Designer.cs">
+      <DependentUpon>ModificarProfesor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarSalon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarSalon.Designer.cs">
+      <DependentUpon>ModificarSalon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mostrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mostrar.Designer.cs">
+      <DependentUpon>Mostrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RespaldoyRestauracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RespaldoyRestauracion.Designer.cs">
+      <DependentUpon>RespaldoyRestauracion.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AgregarAlumno.resx">
+      <DependentUpon>AgregarAlumno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarCarrera.resx">
+      <DependentUpon>AgregarCarrera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarDepartamento.resx">
+      <DependentUpon>AgregarDepartamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarHorario.resx">
+      <DependentUpon>AgregarHorario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarMateria.resx">
+      <DependentUpon>AgregarMateria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarProfesor.resx">
+      <DependentUpon>AgregarProfesor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarSalon.resx">
+      <DependentUpon>AgregarSalon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bUSQUEDA.resx">
+      <DependentUpon>bUSQUEDA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarAlumno.resx">
+      <DependentUpon>EliminarAlumno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarCarrera.resx">
+      <DependentUpon>EliminarCarrera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarDepartamento.resx">
+      <DependentUpon>EliminarDepartamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarHorario.resx">
+      <DependentUpon>EliminarHorario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarMateria.resx">
+      <DependentUpon>EliminarMateria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarProfesor.resx">
+      <DependentUpon>EliminarProfesor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarSalon.resx">
+      <DependentUpon>EliminarSalon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarAlumno.resx">
+      <DependentUpon>ModificarAlumno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarCarrera.resx">
+      <DependentUpon>ModificarCarrera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarDepa.resx">
+      <DependentUpon>ModificarDepa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarHorario.resx">
+      <DependentUpon>ModificarHorario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarMateria.resx">
+      <DependentUpon>ModificarMateria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarProfesor.resx">
+      <DependentUpon>ModificarProfesor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarSalon.resx">
+      <DependentUpon>ModificarSalon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mostrar.resx">
+      <DependentUpon>Mostrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="RespaldoyRestauracion.resx">
+      <DependentUpon>RespaldoyRestauracion.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

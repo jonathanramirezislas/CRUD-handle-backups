@@ -1,0 +1,10 @@
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bds\Milibreria\bin\Debug\Milibreria.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bds\Milibreria\bin\Debug\Milibreria.pdb
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bds\Milibreria\obj\Debug\Milibreria.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bds\Milibreria\obj\Debug\Milibreria.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Horario_bds\Milibreria\obj\Debug\Milibreria.pdb
+C:\Users\Jonas\Music\Escuelita Horario el chido\Milibreria\bin\Debug\Milibreria.dll
+C:\Users\Jonas\Music\Escuelita Horario el chido\Milibreria\bin\Debug\Milibreria.pdb
+C:\Users\Jonas\Music\Escuelita Horario el chido\Milibreria\obj\Debug\Milibreria.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Music\Escuelita Horario el chido\Milibreria\obj\Debug\Milibreria.dll
+C:\Users\Jonas\Music\Escuelita Horario el chido\Milibreria\obj\Debug\Milibreria.pdb
